@@ -1,3 +1,7 @@
+# To run the code and detect cat faces, in the console enter the directory where the cat_detection.py file is
+# and execute the following command: python cat_detection.py --video isla_gatos.mp4
+# If you want to detect cat faces from another video change the path from --video path/file.mp4
+
 import argparse
 import cv2
 
