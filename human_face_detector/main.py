@@ -53,8 +53,6 @@ def detectar_caras():
             break
 
 
-
-
     # Liberar el objeto de captura y cerrar la ventana
     cap.release()
     cv2.destroyAllWindows()
